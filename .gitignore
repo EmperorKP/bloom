@@ -39,5 +39,5 @@ next-env.d.ts
 /app/(root)/(home)/recordings/
 /app/(root)/(home)/previous/
 /app/(root)/(home)/upcoming/
-/actions
+
 
