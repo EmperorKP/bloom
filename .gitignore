@@ -35,9 +35,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# /app/(root)/(home)/personal-room/
+
 /app/(root)/(home)/recordings/
-/app/(root)/(home)/previous/
-/app/(root)/(home)/upcoming/
 
 
