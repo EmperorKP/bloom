@@ -1,5 +1,5 @@
 
-# Bloom - Virtual Classroom App
+# Bloom -
 
 ## 🤖 Introduction
 
@@ -8,8 +8,6 @@ Built with the latest Next.js and TypeScript, this project replicates Virtual cl
 Creating a virtual classroom application that emulates a real classroom environment involves incorporating several key features to facilitate effective learning and collaboration. Here's a list of features you might consider including:
 
 ---
-
-## [User Flow Chart](https://www.figma.com/file/faoAgAjRxQMsjZMvE7gmEb/Bloom?type=whiteboard&node-id=3%3A1932&t=QEvnt5m6kIpKVNxZ-1)
 
 
 ## ⚙ Tech Stack
@@ -21,8 +19,6 @@ Creating a virtual classroom application that emulates a real classroom environm
 - getStream
 - shadcn
 - Tailwind CSS
-- Firebase
-- Eraser.io
 
 ---
 
@@ -79,59 +75,13 @@ Creating a virtual classroom application that emulates a real classroom environm
 
 👉 *Dashboard*: Provide a centralized dashboard for users to access their courses, upcoming lectures, assignments, and discussion forums.
 
----
 
-👉 *Course Management*: Enable instructors to create, manage, and schedule courses. Students should be able to browse available courses, enroll, and access course materials.
 
 ---
-
-👉 *Live Lectures and Webinars*: Incorporate a live streaming feature for instructors to conduct lectures in real-time. Students can join these sessions, ask questions, and participate in discussions through chat or audio/video.
-
----
-
-👉 *Interactive Whiteboard*: Include a virtual whiteboard where instructors can write, draw, and illustrate concepts during live lectures. Students should also be able to interact with the whiteboard, either by asking questions or collaborating on group activities.
-
----
-
-👉 *Discussion Forums*: Provide discussion forums or chat rooms for each course where students can engage in discussions, ask questions, and share resources with peers and instructors.
-
----
-
-👉 *File Sharing and Document Collaboration*: Allow users to upload, share, and collaborate on documents, presentations, and other course materials. Integration with cloud storage services like Google Drive or Dropbox can enhance this feature.
-
----
-
-👉 *Assignment Submission and Grading*: Enable students to submit assignments online, and instructors to review, provide feedback, and grade submissions digitally. Automated grading features can streamline this process.
-
----
-
-👉 *Attendance Tracking*: Implement attendance tracking mechanisms to monitor student participation in lectures and discussions. This can be automated through attendance check-ins during live sessions or manual marking by instructors.
-
----
-
-👉 *Virtual Breakout Rooms*: Offer the ability to create virtual breakout rooms for group activities, discussions, or projects. Instructors can assign students to specific rooms and join to facilitate discussions as needed.
-
----
-
-👉 *Notifications and Reminders*: Keep users informed about upcoming lectures, assignment deadlines, and other important events through notifications and reminders via email, SMS, or in-app notifications.
-
----
-
-👉 *Accessibility Features*: Ensure the platform is accessible to all users, including those with disabilities, by incorporating features such as screen reader compatibility, keyboard shortcuts, and adjustable font sizes.
-
----
-
 👉 *Security and Privacy*: Implement robust security measures to protect user data and prevent unauthorized access. This includes encryption of sensitive information, secure login procedures, and compliance with data protection regulations.
 
 ---
 
-👉 *Feedback and Evaluation*: Gather feedback from users through surveys or polls to continuously improve the platform. Additionally, provide mechanisms for students to evaluate courses and instructors to maintain quality.
-
----
-
-👉 *Integration with Learning Management Systems (LMS)*: Allow integration with existing LMS platforms commonly used by educational institutions, such as Moodle or Canvas, to streamline course management and data synchronization.
-
----
 
 By incorporating these features, your virtual classroom application can provide a comprehensive and immersive learning experience for students and instructors alike and many more, including code architecture and reusability.
 
